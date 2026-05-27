@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+litellm
+openai
+yfinance
+ta-lib
+pandas
+numpy
+apscheduler
+python-dotenv
+httpx
+pydantic

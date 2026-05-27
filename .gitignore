@@ -1,0 +1,48 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains configureation for the Visual Studio Code editor.
+.vscode/
+
+# The .dart_tool folder is used by Dart tools like pub, analyzer, and test.
+.dart_tool/
+
+# The pubspec.lock file prevents pub from determining what the best versions of
+# dependencies are when someone else clones the project and runs `pub get`.
+pubspec.lock
+
+# The build/ folder contains generated files and should not be checked in.
+build/
+
+# Flutter related
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Backend specific
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/agents/__pycache__/
+backend/ai/__pycache__/
+backend/data/__pycache__/
+
+# Xcode
+ios/Runner.xcworkspace/xcuserdata/
+ios/Runner.xcodeproj/project.xcworkspace/xcuserdata/
+macos/Runner.xcworkspace/xcuserdata/
+macos/Runner.xcodeproj/project.xcworkspace/xcuserdata/
